@@ -1,3 +1,2 @@
-# Sapplycompass
-A three-dimensional political compass.
 # melee_compass
+three-dimensional compass based on melee
